@@ -1,5 +1,3 @@
-# Antoine Boquet
-
 Développeur full-stack TypeScript, à Bordeaux. Formé au développement web, puis à la philosophie et aux lettres classiques, je construis notamment des outils numériques pour l'étude des langues anciennes.
 
 L'essentiel de mon code est publié par l'[Association pour la défense des humanités](https://github.com/defense-humanites), que je préside.
